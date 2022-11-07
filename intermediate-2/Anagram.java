@@ -1,5 +1,5 @@
 import java.util.*;
-public class MyClass {
+public class Anagram {
      public static int solve(String A, String B) {
         int N = A.length();
         int M = B.length();
